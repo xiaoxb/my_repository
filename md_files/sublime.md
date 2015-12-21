@@ -3,6 +3,7 @@ https://packagecontrol.io/
 http://c.haoduoshipin.com/happysublime/  
 http://feliving.github.io/Sublime-Text-3-Documentation/  
 http://docs.emmet.io/cheat-sheet/  
+http://blog.csdn.net/cywosp/article/details/32350899   sublime搜狗输入法问题
 ctrl+`(反引号)  
 sublime.log_commands(True) 
 keys:
