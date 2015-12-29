@@ -33,7 +33,7 @@ Reindent Lines自动排版。
 { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},支持tab键补齐。
 ctrl +shift+d 复制当前行  
 crtl+q #退出 
-命令行输入：minimap 隐藏  
+命令行输入：minimap  隐藏  
 ctrl+enter  
 ctrl+shift+enter  
 粘贴的时候多按住一个shift可以在粘贴的过程中保持缩进  
@@ -47,5 +47,6 @@ copy到个人配置文件。
 ```
 ####3. Packages:
 1.安装DocBlockr自动补全注释包括函数注释  
+2.TrailingSpacer 高亮显示多余的空格和Tab
 
 
