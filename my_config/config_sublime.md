@@ -30,21 +30,35 @@ bulid
   @ 符号跳转：输入@symbol跳转到symbol符号所在的位置
   # 关键字跳转：输入#keyword跳转到keyword所在的位置
   : 行号跳转：输入:12跳转到文件的第12行。
+
 ctrl+j:将下一行和当前行合并为同一行  
+
 ctrl shift p :命令面板  
+
 ctrl+h  replace all
+
 ctrl+`(反引号)    sublime.log_commands(True)   
+
 toggle side bar    
+
 Reindent Lines自动排版。
+
 { "keys": ["super+alt+n"], "command": "advanced_new_file_new"},支持tab键补齐。
+
 ctrl +shift+d 复制当前行  
+
 crtl+q #退出 
+
 命令行输入：minimap  隐藏  
+
 Ctrl + Enter(Mac~Command+Enter)在当前行下面新增一行然后跳至该行；Ctrl + Shift + Enter在当前行上面增加一行并跳至该行。
+
 粘贴的时候多按住一个shift可以在粘贴的过程中保持缩进  
+
 产生多行游标的方式：  
 1. 选中一个单词 然后ctrl+d 同时编辑。ctrl k 跳过。  
 2. 选中一个单词之后 alt+f3 产生多行游标  
+
 install Spacegray主题，安装完成后将第53行的  
 "theme": "Spacegray Eighties.sublime-theme",  
 "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"  
