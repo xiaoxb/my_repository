@@ -1,6 +1,7 @@
 ###听力
    1. recent study  theory  都是重点词语，注意后面有态度题。keep in mind!  
-   2. 研究，调查，理论，假说，实验都要记笔记。！discover关键词！
+   2. 研究，调查，理论，假说，实验都要记笔记。！discover关键词！  
+   3. 细节考点的提示词:feature,besides...,traditionally...,change,as a result,poinot ,contrast
 
 ###作文
 1. 独立写作的字数理想是在300-350。
