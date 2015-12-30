@@ -1,9 +1,9 @@
 Table of Contents
 =================
-* [Listening](#name)
-* [Writing](#version)
-* [Speaking](#synopsis)
-* [Reading](#description)
+* [Listening](#listening)
+* [Writing](#writing)
+* [Speaking](#speaking)
+* [Reading](#reading)
 
 
 
