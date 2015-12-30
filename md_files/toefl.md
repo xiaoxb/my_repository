@@ -1,9 +1,18 @@
-###听力
+Table of Contents
+=================
+* [Listening](#name)
+* [Writing](#version)
+* [Speaking](#synopsis)
+* [Reading](#description)
+
+
+
+#Listening
    1. recent study  theory  都是重点词语，注意后面有态度题。keep in mind!  
    2. 研究，调查，理论，假说，实验都要记笔记。！discover关键词！  
    3. 细节考点的提示词:feature,besides...,traditionally...,change,as a result,poinot ,contrast
 
-###作文
+#Writing
 1. 独立写作的字数理想是在300-350。
 2. 托福考官对于考生写作思路的要求只有3点。
    *  考生有没有给出观点。
@@ -109,6 +118,9 @@
    句型13：the assumption that…is incorrect  
    Although Internet has been playing an important role in our daily lives, the assumption that the Internet is as important as other infrastructure services is incorrect.  
 
+#Speaking
+
+#Reading
 
 
 
