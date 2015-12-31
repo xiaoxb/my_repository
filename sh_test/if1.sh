@@ -4,7 +4,7 @@ test=$(env |grep "USER" |cut -d "=" -f 2)
 #echo	$test
 
 
-if [ "$test" == qiaopengfei ] 
+if [ "$test" == wangchongbei ] 
  then
   echo "Current user is root."
 fi
