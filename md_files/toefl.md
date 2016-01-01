@@ -9,9 +9,11 @@ Table of Contents
 
 #Listening
    1. recent study  theory  都是重点词语，注意后面有态度题。keep in mind!  
-   2. 研究，调查，理论，假说，实验都要记笔记。！discover关键词！  
-   3. 细节考点的提示词:feature,besides...,traditionally...,change,as a result,poinot ,contrast
-   4. 出现对比要记笔记.
+   2. 研究，调查，理论，假说，实验都要记笔记。discover关键词！  
+   3. 细节考点的提示词:feature,besides...,traditionally...,change,as a result,poinot ,contrast  
+   4. 出现对比要记笔记.  
+   5. 听力第一句话的名词或者动词一定要记下来。  
+   6. 第一道主旨题不能错，最后一题结尾段，不能错，中间一定会有例子，有例子就一定会考例子所在段落的主题，另外观点题，强调细节题，一篇讲座尽量保证正确4个题，错9个22分。
 
 #Writing
 1. 独立写作的字数理想是在300-350。
@@ -29,8 +31,8 @@ Table of Contents
 
    Express your opinion freely -marking sure no misunderstanding--build up the trust--win the respect from others
    
-   Children are able to access latest information that are widely available on the Internet -they can learn the knowledge and skills that are unfamiliar to their parents 
-   parents need to learn from their kids to catch up with their children and maintain a healthy relationship with them.
+   Children are able to access latest information that are widely available on the Internet -they can learn the knowledge and skills that are unfamiliar to their parents  
+   Parents need to learn from their kids to catch up with their children and maintain a healthy relationship with them.
 
    Modern society is very demanding in terms of advanced and latest technology skills --youth enables children to have a better memory ability and study more efficiently--parents need to learn from children to fit into the society.
 
@@ -52,11 +54,11 @@ Table of Contents
    最直接的就是：你的观点（赞成或者反对）+复述题目观点。
    eg:I believe that young people are more capatable of making independent decisions in today's socioeconomic environment.   
    或者先让步接纳对方的观点有一定的道理，然后再阐述自己的观点。   
-   eg:Although parents uesed to have a strong influence on their child's decision-making process,I believe that young people are more capable to make independent decision  in today's socioeconomic environment.  
-   Although there are many advantages to living in the city,I prefer life in a small town.  \
+   eg:Although parents uesd to have a strong influence on their child's decision-making process,I believe that young people are more capable to make independent decision  in today's socioeconomic environment.  
+   Although there are many advantages to living in the city,I prefer life in a small town.   
    As daunting as it looks at first sight,constructing new housing does present many benefits.   
    第三句：    
-   开头段示例：Making decisions is often considered as one of the most challenging tasks for young people, especially in critical situations. Although parents used to have a strong influence on their child's decision-making process, I believe that young people are more capable of making independent decisions in today's socioeconomic environment. (让步表明观点) Nowadays not only are youngsters able to conduct cost and benefit analysis of their ideas according to market economy principles, (原因1) the open social environment also encourages them to make decisionson their own. (原因2)  
+   开头段示例：Making decisions is often considered as one of the most challenging tasks for young people, especially in critical situations. Although parents used to have a strong influence on their child's decision-making process, I believe that young people are more capable of making independent decisions in today's socioeconomic environment. (让步表明观点) Nowadays not only are youngsters able to conduct cost and benefit analysis of their ideas according to market economy principles, (原因1) the open social environment also encourages them to make  their own decisions. (原因2)  
    ####开头段常见表达语料库：  
    1. 赞成某一观点：  
    句型：I believe (or “agree with the idea”)[固定搭配] + that宾语从句 + 原题观点  
