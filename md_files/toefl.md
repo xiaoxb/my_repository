@@ -16,7 +16,9 @@ Table of Contents
 8. 重放录音题要注意回原文定位它所在的段落的意思。  
 9. 听力的正确选项一定是贴近主题的。  
 10. 听力15分一下多做精听！  
-11. 一定要写错题总结，分析！
+11. 一定要写错题总结，分析！  
+12. 考场有可能听不懂，但做好笔记可以答题。笔记中什么东西是最重要的？出现定义和重点强调的时候是最重要的。一定要听到核心的实词。要练习记笔记和精听。  
+13. 每个句子最多记一到两个单词即可！  
 
 #Writing
 1. 独立写作的字数理想是在300-350，独立作文至少300个词。
@@ -160,15 +162,74 @@ Reason1:Studying from your teachers if the best way to gain new knowledge.
 Reason2:People at your own level do not know much more than you.  
 结尾段：In conclusion,learning from your supervisor and teachers is the best way to improve yourself.（复述观点）Not only can they pass on knowledge to you effectively(总结理由1)，but you can also benefit from their experiences。（总结理由2）
 
+
+###例子:  
+题目：Do you agree or disagree with the following statement? The most important characteristic of a successful politician or leader is good communication skill.  
+
+   First and foremost, a good leader must also be a visionary in addition of having good communication skill. (主题句)   
+   21st century is an era of constant change and mass movement of population and information. The earth has never been smaller given the account of instantaneous communication technology and bustling social media websites. Good leaders should only pay attention to strategic issues such as conducting domestic reform and evaluating world affairs. (论证部分)  
+   Taking China as an example, many multinational corporations are attracted by its booming economy in the past few decades. The leaders must be far-sighted when they decide whether or not to allow the big companies to open more branches in China. (举例部分)   
+
+##综合写作   
+1. 综合写作的合理字数在200-250字之间。  
+2. 写好综合写作的关键在于对比阅读材料和听力材料的不同之处。  
+###句型：  
+1. 句型1:...should be called into quesion...  
+The professor in the lecture thinks the reading's idea of buying a franchise to start your own business should be called into question.
+
+2. 句型2:However, as the listening suggests, the problem of reading's strategy is that...  
+However, as the listening suggests, the problem of this strategy is that as much as 60 per cent of the franchise owner's total income may go to the franchising company which is a high starting cost.  
+
+3. 句型3：However, the professor in the lecture thinks that (reading's idea/method) is not good enough...  
+However, the professor in the lecture thinks that buying a franchise is not the most secure option interms of how to start a business.  
+
+4. 句型4：The professor disagrees with the passage's claim that...  
+The professor disagrees with the passage's claim that the portrait is the depiction of Austen.  
+
+5. 句型5：The professor dismissed the reading's idea that...  
+The professor dismissed the reading's idea that Austen's family recognized the portrait as a depiction of the author.  
+
+6. 句型6：The professor claim the reading's claim that...is not tenable  
+The professor claim the reading's claim that the face in the portrait resembles Austen is not tenable.  
+
+7. 句型7：The professor disagrees with the reading's evidence that...  
+The professor disagrees with the reading's evidence that a stamp in the painting indicates that this painting was sold by William.  
+
+8. 句型8：The reading contradicts listening passage claim that...   
+The reading contradicts listening passage claim that the population of the United States-birds will decrease.  
+
+9. 句型9：Contrary to the reading passage's belief, the lecturer says that...  
+Contrary to the reading passage's belief, the lecturer says that less land are being used for agriculture purpose in the United States.  
+
+10. 句型10：Incontrast, the speaker refutes reading passage’s claim that...  
+In contrast, the speaker refutes reading passage's claim that people are now using less toxic pesticides.  
+
 #Speaking
 > 1,2题是独立口语题，第一题是自由选择，第2题是二选一。
 
 ##第三题：
-三个信息点非常的重要：  
-1.学校计划做什么？  
-2.学校计划这件事的第一个原因？  
-3.学校计划这件事的第二个原因？  
+阅读的三个信息点非常的重要：  
+1. 学校计划做什么？  
+2. 学校计划这件事的第一个原因？  
+3. 学校计划这件事的第二个原因？  
+听力的三个重要信息点:  
+1. 学生是同意/反对学校的计划.  
+2. 学生同意/反对的第一个理由.  
+3. 学生同意/反对的第二个理由.  
 
+##第四题:  
+
+第四题一共涉及三个方面的内容:1)抽象的学术概念2)具体的例子或应用3)两者之间的关联.听力中要掌握的就是对讲座中的例子或者应用做一个清楚,简洁的summary即可.eg:  
+The professor gives us two examples.In the first case,if you hold a kitchen plate right in front of you face,it's a perfect circle.But if you tilt it into a horizontal position,it becomes an oval.In the second exampl,if you sit in a front row in the classroom,the professor looks bigger,but if you sit in a back row,he will look much smaller.  
+
+
+##第六题:  
+有5个非常重要的信息点要答出:  
+1. 教授在讨论的主题.  
+2. 教授讨论的主题的第一个方面.  
+3. 第一个方面的例子.  
+4. 教授讨论的主题的第二个方面.  
+5. 第二个方面的例子.  
 
 #Reading
 

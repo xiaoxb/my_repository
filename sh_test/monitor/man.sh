@@ -13,6 +13,7 @@ i=0
 #把每个文件号码存入numbers中，供用户选择用
 numbers=""
 
+#`...`,里面放入指令
 #-I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
 for script_file in `ls -I "man.sh" ./`
 do
