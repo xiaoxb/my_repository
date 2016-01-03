@@ -1,7 +1,41 @@
 http://blog.csdn.net/skykingf/article/details/45267517#t0   安装Ubuntu 15.10后要做的事 
 http://blog.csdn.net/henren555/article/details/43406479  idea
-1.vim 打开文件显示行号: vim  /etc/vim/vimrc 文件最后添加 set  nu 即可.
+1.vim配置  
+  vim 打开文件显示行号: vim  /etc/vim/vimrc 文件最后添加 set  nu 即可.
+  set autoindent	#开启自动缩进  
+  set cindent
+  vim的文件头设置:sodu vim /etc/vim/vimrc    
+  ```shell
+  set nu
+  set autoindent
 
+  autocmd BufNewFile *.py,*.sh, exec ":call SetTitle()"
+  let $author_name  = "wchb"
+  let $author_email = "wchb20155@gmail.com"
+
+  func SetTitle()
+  if &filetype == 'sh'
+  call setline(1,"\######################################")
+  call append(line("."),"\# File Name: ".expand("%"))
+  call append(line(".")+1,"\# Author: ".$author_name)
+  call append(line(".")+2,"\# Email: ".$author_email)
+  call append(line(".")+3,"\# Create Time: ".strftime("%c"))
+  call append(line(".")+4,"\######################################")
+  call append(line(".")+5,"\#!/bin/bash")
+  call append(line(".")+6,"")
+  else
+  call setline(1,"\######################################")
+  call append(line("."),"\# File Name: ".expand("%"))
+  call append(line(".")+1,"\# Author: ".$author_name)
+  call append(line(".")+2,"\# Email: ".$author_email)
+  call append(line(".")+3,"\# Create Time: ".strftime("%c"))
+  call append(line(".")+4,"\######################################")
+  call append(line(".")+5,"\#!/usr/bin/python")
+  call append(line(".")+6,"")
+  endif
+  autocmd BufNewFile * normal G
+  endfunc
+  ```
 1.sudo apt-get install lrzsz
    sudo apt-get install tree 	
    sudo apt-get install sysv-rc-conf
