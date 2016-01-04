@@ -19,6 +19,8 @@ Table of Contents
 11. 一定要写错题总结，分析！  
 12. 考场有可能听不懂，但做好笔记可以答题。笔记中什么东西是最重要的？出现定义和重点强调的时候是最重要的。一定要听到核心的实词。要练习记笔记和精听。  
 13. 每个句子最多记一到两个单词即可！  
+14. 不要因为一个词听不懂影响了整篇文章，卡壳一个词最多错一道题，但如果因为一个词损失了整篇文章就得不偿失了。  
+
 
 #Writing
 1. 独立写作的字数理想是在300-350，独立作文至少300个词。
@@ -173,6 +175,7 @@ Reason2:People at your own level do not know much more than you.
 ##综合写作   
 1. 综合写作的合理字数在200-250字之间。  
 2. 写好综合写作的关键在于对比阅读材料和听力材料的不同之处。  
+
 ###句型：  
 1. 句型1:...should be called into quesion...  
 The professor in the lecture thinks the reading's idea of buying a franchise to start your own business should be called into question.
