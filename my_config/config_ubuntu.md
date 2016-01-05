@@ -6,14 +6,14 @@ http://blog.csdn.net/henren555/article/details/43406479  idea
   set cindent
   vim的文件头设置:sodu vim /etc/vim/vimrc    
   ```shell
-  set nu
-  set autoindent
+set nu 
+"set autoindent
 
-  autocmd BufNewFile *.py,*.sh, exec ":call SetTitle()"
-  let $author_name  = "wchb"
-  let $author_email = "wchb20155@gmail.com"
+autocmd BufNewFile *.py,*.sh, exec ":call SetTitle()"
+let $author_name  = "wchb"
+let $author_email = "wchb20155@gmail.com"
 
-  func SetTitle()
+func SetTitle()
   if &filetype == 'sh'
   call setline(1,"\######################################")
   call append(line("."),"\# File Name: ".expand("%"))
@@ -25,16 +25,17 @@ http://blog.csdn.net/henren555/article/details/43406479  idea
   call append(line(".")+6,"")
   else
   call setline(1,"\######################################")
-  call append(line("."),"\# File Name: ".expand("%"))
-  call append(line(".")+1,"\# Author: ".$author_name)
-  call append(line(".")+2,"\# Email: ".$author_email)
-  call append(line(".")+3,"\# Create Time: ".strftime("%c"))
-  call append(line(".")+4,"\######################################")
-  call append(line(".")+5,"\#!/usr/bin/python")
-  call append(line(".")+6,"")
+  call append(line("."),"\# coding=utf-8")
+  call append(line(".")+1,"\# File Name: ".expand("%"))
+  call append(line(".")+2,"\# Author: ".$author_name)
+  call append(line(".")+3,"\# Email: ".$author_email)
+  call append(line(".")+4,"\# Create Time: ".strftime("%c"))
+  call append(line(".")+5,"\######################################")
+  call append(line(".")+6,"\#!/usr/bin/env python")
+  call append(line(".")+7,"")
   endif
   autocmd BufNewFile * normal G
-  endfunc
+endfunc
   ```
 1.sudo apt-get install lrzsz
    sudo apt-get install tree 	
