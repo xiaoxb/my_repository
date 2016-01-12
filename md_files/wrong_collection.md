@@ -14,9 +14,10 @@ Wrong:He redesigned Newcomen's engine so that it no longer needed a separate con
 26. 题型:According to the passage,which of the following is true about the development of steam power.  
 Right:Steam-power technology was largely the result of improvements developed to increase the supplyof coal as a primary source of energy.  
 Wrong:Adaptations to steam engines required for their use in cotton-spinning mills led to radical developments in machinery used in the iron industry.  
-
 分析:正确选项和原文主旨相关,而题干中又有According to the passage....  
+
 27. 句子插入题.有点不可避免,By the eighteenth century,Britain was experiencing a severe shortage of energy.**Energy had not been a problem for Brith in the past because it relied on a rich source of energy :its vast forests.** Because of the growth of population,most of the great forests of medieval Britain had long ago been replaced by fields of grain and hay.  
+
 28.  inferred题.  
 Right:They do not eat the leaves of the plants that produce extrafloral nectar.  
 Wrong:They spend most of their energy guarding extrafloral.  
