@@ -65,3 +65,18 @@
 
   In conclusion,I am thrilled by the prospect of space travel and travel exploration..  
 
+  People who cannot accept the criticism from others will not be successful at working in a group.  
+
+  Persistence is a vital factor for success-stick to the goal and strong minded.  
+
+  Criticism strengthen us.   
+
+  An effective leader should try to make others feel that they are part of the decision making process.   
+  
+  A decision,which has taken the opinions of various sides into consideration, can be more sensible and effective.  
+
+  **A distinctive illustration is that** parents may some day grow too old to make decisions for their kids.If their kids get used to listening to their parents and don't have the the ability to make their own,the consequences may be devastating.  
+
+
+  
+

@@ -237,4 +237,6 @@ The professor gives us two examples.In the first case,if you hold a kitchen plat
 5. 第二个方面的例子.  
 
 #Reading
+1. 先看文章的标题,抓关键词.  
+2. Except(排除题),先读4个选项,划出关键词,然后从段首开始读,就两种,无中生有和错误.读完全对就是无中生有,读到一个错的就直接选.  
 
