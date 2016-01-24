@@ -6,6 +6,23 @@ http://docs.emmet.io/cheat-sheet/
 http://blog.csdn.net/cywosp/article/details/32350899   sublime搜狗输入法问题  
 ####1. 配置文件：  
 ```
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	"Vintage"
+	],
+	"line_padding_bottom": 7,
+	"line_padding_top": 7,
+	"theme": "Spacegray Eighties.sublime-theme"
+}
+
+```
+
+
+
+```
 keys:
 [
 {"keys":["shift+tab"],"command":"reindent","args": {"single_line": false}  },
