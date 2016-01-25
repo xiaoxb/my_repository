@@ -1,3 +1,4 @@
+1.win7系统盘应该15G,ubuntu /home 分区大小应该考虑到virtualbox的win7会占用60个G。  
 http://blog.csdn.net/skykingf/article/details/45267517#t0   安装Ubuntu 15.10后要做的事 
 http://blog.csdn.net/henren555/article/details/43406479  idea
 1.vim配置  
@@ -45,7 +46,8 @@ endfunc
 
 2.sudo apt-get install openssh-server  /etc/init.d/ssh start 
 
-3.搜狗拼音  http://blog.csdn.net/david_xtd/article/details/27107009  http://www.cnblogs.com/youxia/p/linux009.html
+3.搜狗拼音  http://blog.csdn.net/david_xtd/article/details/27107009  http://www.cnblogs.com/youxia/p/linux009.html  
+http://blog.chinaunix.net/uid-10498763-id-3840176.html  
 
 4.sudo passwd root  激活root用户
 
