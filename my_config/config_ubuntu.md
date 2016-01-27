@@ -11,14 +11,13 @@ http://blog.csdn.net/henren555/article/details/43406479  idea
 3.
    1. sudo apt-get install lrzsz  
    2. sudo apt-get install tree  
-   3. sudo apt-get install sysv-rc-conf  
-   4. sudo apt-get install sysv-rc-conf 安装完成后,直接运行sudo sysv-rc-conf命令即可打开该管理软件  
-   5. sudo apt-get install memcached  
-   6. sudo apt-get install nethogs  sudo nethogs enp3s0  
-   7. sudo apt-get install openssh-server  /etc/init.d/ssh start  
-   8. sudo apt-get install vim  (如果失败执行sudo apt-get remove vim-common)  
-   9. 安装chrome(注意先执行1)sudo apt-get install libappindicator1 libindicator7  sudo dpkg -i google-chrome-stable_current_amd64.deb  
-   10. sudo apt-get install git  
+   3. sudo apt-get install sysv-rc-conf 安装完成后,直接运行sudo sysv-rc-conf命令即可打开该管理软件  
+   4. sudo apt-get install memcached  
+   5. sudo apt-get install nethogs  sudo nethogs enp3s0  
+   6. sudo apt-get install openssh-server  /etc/init.d/ssh start  
+   7. sudo apt-get install vim  (如果失败执行sudo apt-get remove vim-common)  
+   8. 安装chrome(注意先执行1)sudo apt-get install libappindicator1 libindicator7  sudo dpkg -i google-chrome-stable_current_amd64.deb  
+   9. sudo apt-get install git  
 
 4.搜狗拼音  http://blog.csdn.net/david_xtd/article/details/27107009  http://www.cnblogs.com/youxia/p/linux009.html  
    http://blog.chinaunix.net/uid-10498763-id-3840176.html  
