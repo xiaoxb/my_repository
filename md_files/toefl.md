@@ -22,7 +22,7 @@ Table of Contents
 14. 不要因为一个词听不懂影响了整篇文章，卡壳一个词最多错一道题，但如果因为一个词损失了整篇文章就得不偿失了。
 15. But后面的句子往往是考点,一篇文章的最后20秒左右往往是最后一道题目的考点.   
 16. Now后面的内容通常要注意,now通常用来引导一个新的内容...   
-
+17. Lecture中的now/but/reason/especially/actually/key/take the case of/called/是一个关键词.
 
 #Writing
 1. 独立写作的字数理想是在300-350，独立作文至少300个词。
