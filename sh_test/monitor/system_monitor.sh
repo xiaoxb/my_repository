@@ -1,13 +1,13 @@
 #!/bin/bash
 clear
 if [[ $# -eq 0  ]]
-then 
+then
 #Define Variable reset_terminal
 reset_terminal=$(tput sgr0)
 
 # Check OS Type
 os=$(uname -o)
-echo -e '\E[31m' "Operating System Type :" $reset_terminal  $os       
+echo -e '\E[31m' "Operating System Type :" $reset_terminal  $os
 
 # Check OS Release Version and Name
 os_name=$(cat /etc/issue)

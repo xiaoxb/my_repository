@@ -14,7 +14,7 @@ i=0
 numbers=""
 
 #`...`,里面放入指令
-#-I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+#-I, --ignore=PATTERN  do not list implied entries matching shell PATTERN
 for script_file in `ls -I "man.sh" ./`
 do
     echo -e '\e[1;35m' "The Script:" ${i} '==>' ${resettem} ${script_file}
@@ -35,4 +35,4 @@ do
     echo ${ssharray[$execshell]}
     #/bin/sh ./${shharray[$execshell]}
     ./${shharray[$execshell]}
-done 
+done

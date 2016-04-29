@@ -2,8 +2,8 @@
 
 read -t 30 -p "Please input a dir :" dir
 if [ -d "$dir"  ]
-   then 
+   then
        echo "Is dir!"
-   else 
+   else
        echo "No No No!"
 fi

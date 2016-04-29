@@ -23,5 +23,5 @@ Check_Nginx_Server()
 
 Check_Nginx_Server
 #curl -m 最大传输时间;-s 静音模式,不做额外输出;-w ${http_code} 显示返回状态码;
-#curl -m 5 -s -w %{http_code} http://192.168.0.101 
+#curl -m 5 -s -w %{http_code} http://192.168.0.101
 #curl -m 5 -s -w %{http_code} http://192.168.0.101 -o /dev/null

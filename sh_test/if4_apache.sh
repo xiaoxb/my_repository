@@ -3,7 +3,7 @@
 test=$( ps -axu|grep httpd|grep -v grep )
 if [ -n "$test" ]
    then echo "Apache if OK!"
-   else 
+   else
      echo "Apache has problems!"
      /etc/init.d/apache2 start
 fi

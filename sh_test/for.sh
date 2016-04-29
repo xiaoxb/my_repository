@@ -2,19 +2,19 @@
 
 
 for i in 11 22 33  44 55
-    do 
+    do
       echo $i
     done
 
 
 for i in "$*"
-    do 
+    do
        echo $i
 
-    done 
+    done
 
 for y in "$@"
 
-    do 
+    do
        echo $y
-    done 
+    done
